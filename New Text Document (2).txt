@@ -69,6 +69,7 @@ task.delay(10, function()
 
 
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/newbie0z-lol/preprt/refs/heads/main/preprt.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/anhlamgixungdangvoiem/checkkeypremium/refs/heads/main/checkkeypre.lua"))()
     end)
 end)
+
